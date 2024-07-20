@@ -1,0 +1,1 @@
+I recently completed an exciting project where I developed a Python script to simulate the growth of fungal biomass and the decay of radiation levels over a 365-day period. This simulation uses logistic growth and first-order kinetics models to provide insights into environmental science and radiation remediation efforts.
